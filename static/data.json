@@ -1,0 +1,12 @@
+[
+  {
+    "user": "Peter",
+    "age": 24,
+    "country": "Italy"
+  },
+  {
+    "user": "Susan",
+    "age": 35,
+    "country": "China"
+  }
+]
